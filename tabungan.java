@@ -107,7 +107,7 @@ class tabungan {
 
  case 5:
  JOptionPane.showMessageDialog(null,"TERIMA KASIH TELAH BERTRANSAKSI DI BANK KAMI"+
- "\nSEMOGA ANDA PUAS");
+ "\nSEMOGA ANDA PUAS DALAM PELAYANAN KAMI");
  System.exit(0);
  break;
 
