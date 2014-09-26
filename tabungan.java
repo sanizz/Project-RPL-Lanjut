@@ -7,24 +7,6 @@ class tabungan {
  int nabung;
  int penarikan;
 
-a
-a
-a
-a
-sa
-a
-fa
-a
-aaa
-a
-a
-a
-a
-a
-a
-a
-a
-
  void saldo2() {
  JOptionPane.showMessageDialog(null,"SALDO ANDA = "+ (nabung - penarikan));
  }
